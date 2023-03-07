@@ -10,3 +10,7 @@ Note:
 2. The code to estimate down-sampling kernel is from KernelGAN.
 3. The code for image super-resolution is from EDSR-PyTorch.
 4. The dataset can be downloaded from https://pan.baidu.com/s/1eboZS8bpqh6ET7Km9vTArg (password:rftx).
+
+
+
+I am sorry for my mistake!!! Please replace seg_hrnet.py with seg_hrnet _ssr.py. Thanks for the contribution from Zicheng Zhao in Nanjing University of Science and Technology.
